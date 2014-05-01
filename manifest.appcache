@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Revision 1398632332980
+# Revision 1398986956387
 
 CACHE:
 Chapter-8/README.html
@@ -8,8 +8,8 @@ Chapter-3/README.html
 Chapter-4/README.html
 Chapter-5/README.html
 Chapter-6/README.html
-Chapter-1/README.html
 Chapter-7/README.html
+Chapter-1/README.html
 index.html
 gitbook/app.js
 gitbook/fonts/anonymouspro/400.woff
@@ -47,8 +47,8 @@ gitbook/jsrepl/sandbox.html
 gitbook/jsrepl/sandbox.js
 gitbook/print.css
 gitbook/style.css
-gitbook/plugins/gitbook-plugin-mixpanel/plugin.js
 gitbook/plugins/gitbook-plugin-mathjax/plugin.js
+gitbook/plugins/gitbook-plugin-mixpanel/plugin.js
 
 NETWORK:
 *
