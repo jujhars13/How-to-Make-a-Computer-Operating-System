@@ -37,7 +37,7 @@ You can now access your box by using ssh to connect to the virtual box using:
 vagrant ssh
 ```
 
-The code will be available in the */vagrant* directory:
+The directory containing the *Vagrantfile* will be mounted by default in the */vagrant* directory of the guest VM (in this case, Ubuntu Lucid32):
 
 ```
 cd /vagrant
@@ -61,4 +61,4 @@ make run
 
 The documentation for qemu is available at [QEMU Emulator Documentation](http://wiki.qemu.org/download/qemu-doc.html).
 
-You can exit the emulator using: \<Ctrl-a x\>.
+You can exit the emulator using: Ctrl-a.
